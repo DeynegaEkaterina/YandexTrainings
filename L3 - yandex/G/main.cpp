@@ -2,8 +2,7 @@
 #include "vector"
 #include "algorithm"
 
-
-struct para{
+// не проходит 4ый тест, надо делать чтение из файла
     int a;
     int b;
 };

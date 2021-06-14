@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/G.dir/main.cpp.o -o G 
+/usr/bin/c++ -g CMakeFiles/G.dir/main.cpp.o CMakeFiles/G.dir/tests/test.cpp.o -o G 

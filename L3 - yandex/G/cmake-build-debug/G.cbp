@@ -85,6 +85,9 @@
 		<Unit filename="/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/G/main.cpp">
 			<Option target="G"/>
 		</Unit>
+		<Unit filename="/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/G/tests/test.cpp">
+			<Option target="G"/>
+		</Unit>
 		<Unit filename="/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/G/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

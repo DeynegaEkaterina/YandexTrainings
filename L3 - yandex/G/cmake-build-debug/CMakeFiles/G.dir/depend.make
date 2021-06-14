@@ -3,3 +3,5 @@
 
 CMakeFiles/G.dir/main.cpp.o: ../main.cpp
 
+CMakeFiles/G.dir/tests/test.cpp.o: ../tests/test.cpp
+
