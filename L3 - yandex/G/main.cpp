@@ -3,6 +3,7 @@
 #include "algorithm"
 
 // не проходит 4ый тест, надо делать чтение из файла
+struct para{
     int a;
     int b;
 };
