@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/laptops.dir/main.cpp.o -o laptops 

@@ -1,0 +1,3 @@
+/home/ekaterina/CLionProjects/L1 - yandex/Metro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ekaterina/CLionProjects/L1 - yandex/Metro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ekaterina/CLionProjects/L1 - yandex/Metro/cmake-build-debug/CMakeFiles/Metro.dir

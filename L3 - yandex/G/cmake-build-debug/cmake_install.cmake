@@ -1,4 +1,4 @@
-# Install script for directory: /home/ekaterina/CLionProjects/L3 - yandex/G
+# Install script for directory: /home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/G
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ekaterina/CLionProjects/L3 - yandex/G/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/G/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/ekaterina/CLionProjects/L3 - yandex/A/main.cpp
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/A/main.cpp
 iostream
 -
-vector
-/home/ekaterina/CLionProjects/L3 - yandex/A/vector
 algorithm
-/home/ekaterina/CLionProjects/L3 - yandex/A/algorithm
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/A/algorithm
+unordered_set
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/A/unordered_set
 
