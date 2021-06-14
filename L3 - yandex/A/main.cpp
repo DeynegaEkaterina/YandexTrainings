@@ -1,36 +1,25 @@
 #include <iostream>
-#include "vector"
 #include "algorithm"
+#include "unordered_set"
+
 int A(std::string s) {
 
-    std::vector<int> v;
+    std::unordered_set<int> v;
     std::string tmp;
-    int count = 0;
 
     for (int i = 0; i <= s.length(); i++) {
         if ((s[i] >= '0' && s[i] <= '9') || s[i] == '-') {
             tmp = tmp + s[i];
         } else if (!(s[i] >= '0' && s[i] <= '9')) {
             if (!tmp.empty()) {
-                v.push_back(std::stoi(tmp));
+                v.emplace(std::stoi(tmp));
                 tmp = "";
             }
         }
     }
     if(v.size() > 100000) {exit(0);}
-
-    std::sort(v.begin(), v.end());
-    for(int j = 0; j < v.size(); j++){
-        if(v[j] != v[j+1]){
-            count++;
-        }
-    }
-    return count;
+    return v.size();
 }
-
-
-
-
 
 
 int main() {
@@ -39,3 +28,6 @@ int main() {
    std::cout << A(str);
    return 0;
 }
+
+
+
