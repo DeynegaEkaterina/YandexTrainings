@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/B/main.cpp
+unordered_set
+-
+iostream
+-
+sstream
+-
+string
+-
+set
+-
+

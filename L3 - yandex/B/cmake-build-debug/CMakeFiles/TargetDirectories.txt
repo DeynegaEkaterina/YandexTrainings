@@ -1,0 +1,3 @@
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ekaterina/CLionProjects/YandexTrainings/L3 - yandex/B/cmake-build-debug/CMakeFiles/B.dir
