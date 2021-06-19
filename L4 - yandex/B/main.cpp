@@ -14,15 +14,17 @@ int main() {
             getline(in, line);
             line = line + " ";
             for (int i = 0; i < line.size(); i++) {
-                if (line[i] != ' ') {
-                    tmp = tmp + line[i];
-                }
-                else {
-                    cout << tmp << endl;
-                   // cout << frequency[tmp] << ' ';
-                    //++frequency[tmp];
-                    tmp = "";
-                         }
+                tmp = tmp + line[i];
+               if (line[i] == ' ' ){
+                   if(tmp == " ")
+                   {
+                       tmp = "";
+                       continue;
+                   }
+                   cout << frequency[tmp] << ' ';
+                   ++frequency[tmp];
+                   tmp = "";
+               }
                 }
             }
         }
