@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ekaterina/CLionProjects/YandexTrainings/L4 - yandex/B/main.cpp
+iostream
+-
+fstream
+/home/ekaterina/CLionProjects/YandexTrainings/L4 - yandex/B/fstream
+
