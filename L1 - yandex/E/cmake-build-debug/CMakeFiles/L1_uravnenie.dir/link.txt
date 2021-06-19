@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/L1_uravnenie.dir/main.cpp.o -o L1_uravnenie 

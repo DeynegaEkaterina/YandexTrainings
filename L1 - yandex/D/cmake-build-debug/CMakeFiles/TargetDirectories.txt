@@ -1,3 +1,3 @@
-/home/ekaterina/CLionProjects/L1-uravnenie/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ekaterina/CLionProjects/L1-uravnenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ekaterina/CLionProjects/L1-uravnenie/cmake-build-debug/CMakeFiles/L1_uravnenie.dir
+/home/ekaterina/CLionProjects/YandexTrainings/L1 - yandex/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ekaterina/CLionProjects/YandexTrainings/L1 - yandex/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ekaterina/CLionProjects/YandexTrainings/L1 - yandex/D/cmake-build-debug/CMakeFiles/L1_uravnenie.dir
