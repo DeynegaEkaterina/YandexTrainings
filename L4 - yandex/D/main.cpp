@@ -1,7 +1,9 @@
+#include <unordered_map>
 #include <iostream>
-#include "unordered_map"
+#include <string>
 
 using namespace std;
+
 
 int main() {
 
@@ -14,20 +16,19 @@ int main() {
         keyboard.insert(make_pair(i, c));
     }
 
+
     int k,p;
     cin >> k;
     for(int j = 0; j < k; j++){
         cin >> p;
         --keyboard[p];
     }
+
     string isBroken;
-    for(int i = 1; i <= n; i++){
-        isBroken = keyboard[i] < 0 ? ("YES") : ("NO");
+    for (unsigned i = 1; i <= n; ++i) {
+        isBroken = (keyboard[i] < 0)?("YES"):("NO");
         cout << isBroken << endl;
     }
 
-    for (const auto& [key, value] : keyboard){
-        cout << key << ": " << value << endl;
-    }
     return 0;
 }
