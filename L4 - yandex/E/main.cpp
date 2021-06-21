@@ -18,7 +18,7 @@ int main() {
         blocks.insert(make_pair(a,b));
     }
 
-    int maxHeight = 0;
+    long int maxHeight = 0;
     for (const auto& [key, value] : blocks){
         maxHeight += value;
     }
